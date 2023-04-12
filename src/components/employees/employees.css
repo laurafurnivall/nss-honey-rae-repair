@@ -1,0 +1,25 @@
+.employees {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.employee {
+    background: lightgoldenrodyellow;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    width: 300px;
+}
+
+.employee_header {
+    font-size: medium;
+    font-weight: bold;
+    padding: 0px 0px 5px 0px;
+}
+
+.employee_footer {
+    font-style: oblique;
+    font-size: small;
+    padding: 5px 0px 0px 0px;
+}
